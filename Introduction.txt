@@ -1,0 +1,2 @@
+Hello my name is harsh yadav and this is my first repo.
+#Trying to learn git version control system
